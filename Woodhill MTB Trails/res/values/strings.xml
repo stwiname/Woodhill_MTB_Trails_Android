@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Woodhill MTB Trails</string>
+    <string name="title_section3">Map</string>
+    <string name="title_section2">Trails</string>
+    <string name="title_section1">Routes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="map_view">Map</string>
+    <string name="title_activity_main">Woodhill MTB Trails</string>
+    <string name="new_trail_only_jumpers">Jumpers only</string>
+
+    <string-array name="trail_difficulty">
+        <item>Beginner</item>
+        <item>Intermediate</item>
+        <item>Advanced</item>
+    </string-array>
+
+    <array name="route_icons">
+        <item>@drawable/nature_valley</item>
+        <item>@drawable/auckland_eye</item>
+        <item>@drawable/rr_sport</item>
+        <item>@drawable/mad_butcher</item>
+        <item>@drawable/habitual_fix</item>
+        <item>@drawable/bundaberg</item>
+    </array>
+
+    <string name="title_activity_about">About</string>
+
+</resources>

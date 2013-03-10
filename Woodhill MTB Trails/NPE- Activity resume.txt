@@ -1,0 +1,27 @@
+12-20 11:23:59.920: E/AndroidRuntime(11804): FATAL EXCEPTION: main
+12-20 11:23:59.920: E/AndroidRuntime(11804): java.lang.RuntimeException: Unable to start activity ComponentInfo{com.scotttwiname.woodhill.mtb.trails/com.scotttwiname.woodhill.mtb.trails.MainActivity}: java.lang.NullPointerException
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2185)
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2210)
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	at android.app.ActivityThread.access$600(ActivityThread.java:142)
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1208)
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	at android.os.Looper.loop(Looper.java:137)
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	at android.app.ActivityThread.main(ActivityThread.java:4931)
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	at java.lang.reflect.Method.invokeNative(Native Method)
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	at java.lang.reflect.Method.invoke(Method.java:511)
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:791)
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:558)
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	at dalvik.system.NativeStart.main(Native Method)
+12-20 11:23:59.920: E/AndroidRuntime(11804): Caused by: java.lang.NullPointerException
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	at com.scotttwiname.woodhill.mtb.trails.MainActivity$RouteFragment.<init>(MainActivity.java:211)
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	at java.lang.Class.newInstanceImpl(Native Method)
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	at java.lang.Class.newInstance(Class.java:1319)
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	at android.support.v4.app.Fragment.instantiate(Fragment.java:388)
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	at android.support.v4.app.FragmentState.instantiate(Fragment.java:97)
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	at android.support.v4.app.FragmentManagerImpl.restoreAllState(FragmentManager.java:1760)
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	at android.support.v4.app.FragmentActivity.onCreate(FragmentActivity.java:200)
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	at com.scotttwiname.woodhill.mtb.trails.MainActivity.onCreate(MainActivity.java:72)
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	at android.app.Activity.performCreate(Activity.java:5008)
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1079)
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2139)
+12-20 11:23:59.920: E/AndroidRuntime(11804): 	... 11 more

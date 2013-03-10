@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="1" >
+
+    <RadioButton
+        android:id="@+id/radioButton1"
+        android:layout_height="58dp"
+        android:layout_column="0"
+        android:layout_gravity="right"
+        android:layout_row="0"
+        android:layout_rowSpan="3"
+        android:focusable="false"
+        android:focusableInTouchMode="false" />
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="210dp"
+        android:layout_height="45dp"
+        android:layout_column="0"
+        android:layout_gravity="left"
+        android:layout_row="0"
+        android:layout_rowSpan="2"
+        android:src="@drawable/auckland_eye" />
+
+    <TextView
+        android:id="@+id/details"
+        android:layout_width="match_parent"
+        android:layout_column="0"
+        android:layout_gravity="left"
+        android:layout_row="2"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+
+</GridLayout>

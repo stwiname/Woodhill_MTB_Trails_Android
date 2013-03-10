@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" 
+	creator="Scott Twiname"  
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<metadata>
+		<name>Ed Rush Ravine</name>
+		<desc>Export from GpsPrune</desc>
+	</metadata>
+	<trk><name>Ed Rush Ravine</name><number>1</number><trkseg>
+<trkpt lat="-36.716694" lon="174.40312">
+			<time>2013-01-05T11:42:11Z</time>
+			<ele>137.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.71679" lon="174.40309">
+			<time>2013-01-05T11:42:21Z</time>
+			<ele>129.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.716835" lon="174.40332">
+			<time>2013-01-05T11:42:26Z</time>
+			<ele>135.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.71689" lon="174.40353">
+			<time>2013-01-05T11:42:31Z</time>
+			<ele>142.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.716812" lon="174.40378">
+			<time>2013-01-05T11:42:36Z</time>
+			<ele>140.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.716854" lon="174.404">
+			<time>2013-01-05T11:42:41Z</time>
+			<ele>140.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.716896" lon="174.40427">
+			<time>2013-01-05T11:42:46Z</time>
+			<ele>129.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.717014" lon="174.40431">
+			<time>2013-01-05T11:42:51Z</time>
+			<ele>127.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.717144" lon="174.40437">
+			<time>2013-01-05T11:42:56Z</time>
+			<ele>137.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.71725" lon="174.40437">
+			<time>2013-01-05T11:43:01Z</time>
+			<ele>138.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.71734" lon="174.40433">
+			<time>2013-01-05T11:43:06Z</time>
+			<ele>137.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.717476" lon="174.40446">
+			<time>2013-01-05T11:43:11Z</time>
+			<ele>140.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.717594" lon="174.40459">
+			<time>2013-01-05T11:43:16Z</time>
+			<ele>141.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.717693" lon="174.40459">
+			<time>2013-01-05T11:43:22Z</time>
+			<ele>141.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.71796" lon="174.40463">
+			<time>2013-01-05T11:43:27Z</time>
+			<ele>143.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.718155" lon="174.4047">
+			<time>2013-01-05T11:43:32Z</time>
+			<ele>147.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.718315" lon="174.4047">
+			<time>2013-01-05T11:43:37Z</time>
+			<ele>138.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.718422" lon="174.40475">
+			<time>2013-01-05T11:43:42Z</time>
+			<ele>143.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.71857" lon="174.40497">
+			<time>2013-01-05T11:43:47Z</time>
+			<ele>139.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.718678" lon="174.40523">
+			<time>2013-01-05T11:43:52Z</time>
+			<ele>134.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.718765" lon="174.40527">
+			<time>2013-01-05T11:43:57Z</time>
+			<ele>132.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.718967" lon="174.40549">
+			<time>2013-01-05T11:44:02Z</time>
+			<ele>130.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.719044" lon="174.40564">
+			<time>2013-01-05T11:44:09Z</time>
+			<ele>135.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.71914" lon="174.4059">
+			<time>2013-01-05T11:44:14Z</time>
+			<ele>136.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.719227" lon="174.40608">
+			<time>2013-01-05T11:44:19Z</time>
+			<ele>135.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.719322" lon="174.40619">
+			<time>2013-01-05T11:44:24Z</time>
+			<ele>126.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.71945" lon="174.40637">
+			<time>2013-01-05T11:44:29Z</time>
+			<ele>129.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.719612" lon="174.40639">
+			<time>2013-01-05T11:44:34Z</time>
+			<ele>131.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.719837" lon="174.40628">
+			<time>2013-01-05T11:44:39Z</time>
+			<ele>130.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.72001" lon="174.40622">
+			<time>2013-01-05T11:44:44Z</time>
+			<ele>128.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.720097" lon="174.40619">
+			<time>2013-01-05T11:44:50Z</time>
+			<ele>131.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.720203" lon="174.40608">
+			<time>2013-01-05T11:44:55Z</time>
+			<ele>130.0</ele>
+			<name>pt1</name>
+		</trkpt>
+<trkpt lat="-36.720278599849834" lon="174.4060827116394">
+			<time>2013-01-05T11:45:00Z</time>
+			<ele>131.0</ele>
+			<name>pt1</name>
+		</trkpt>
+	</trkseg></trk>
+</gpx>
